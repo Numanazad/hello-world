@@ -1,2 +1,5 @@
-# hello-world
-Just another repo
+# hello-world 
+hello there everyone... 
+I am here for exploring my knowledge on
+JSP, cool people... 
+
